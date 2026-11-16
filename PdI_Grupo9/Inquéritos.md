@@ -43,7 +43,7 @@ Este inquérito é anónimo e realizado no âmbito do projeto BiblioPI (Processa
 
 **P8. Como costuma gerir as suas palavras-passe (passwords)?**
 *   [ ] Uso a mesma palavra-passe (ou variações simples) para quase todas as contas *(Código: 1)*
-*   [ ] Tenho 3 ou 4 palavras-passe complexas que vou alternando entre sites *(Código: 2)*
+*   [ ] Uso a mesma palavra-passe (ou variações simples) para quase todas as contas  *(Código: 2)*
 *   [ ] Uso um gestor de palavras-passe ou crio uma única e complexa para cada serviço *(Código: 3)*
 
 **P9. Se receber um SMS ou email do "seu banco" a pedir para clicar num link e atualizar os dados com urgência, o que faz?**
