@@ -1,7 +1,7 @@
 # Inquérito: Hábitos de Leitura e Cibersegurança
 
 **Introdução e Consentimento:**
-Este inquérito é anónimo e realizado no âmbito do projeto BiblioPI (Processamento de Informação). O objetivo é compreender os hábitos de leitura dos cidadãos e a sua relação com as práticas de segurança digital no dia a dia. Demora menos de 2 minutos. Ao responder a este formulário, dá o seu consentimento para a utilização dos dados de forma agregada e anónima. Não existem respostas certas ou erradas.
+Este inquérito é anónimo e realizado no âmbito do projeto BiblioPI (Processamento de Informação). O objetivo é compreender os hábitos de leitura técnica dos cidadãos e a sua relação com as práticas de segurança digital no dia a dia. Demora menos de 2 minutos. Ao responder a este formulário, dá o seu consentimento para a utilização dos dados de forma agregada e anónima. Não existem respostas certas ou erradas.
 
 ---
 
@@ -13,7 +13,7 @@ Este inquérito é anónimo e realizado no âmbito do projeto BiblioPI (Processa
 **P2. Em que localidade reside?** (Indique o Concelho/Cidade)
 *Resposta de texto: _______________________*
 
-**P3. Quantos livros leu nos últimos 12 meses?** (Considerando apenas livros completos)
+**P3. Quantos livros/manuais leu nos últimos 12 meses?** (Considerando obras completas)
 *Resposta numérica: _______ livros*
 
 **P4. Quantas horas semanais dedica à leitura?**
@@ -24,13 +24,13 @@ Este inquérito é anónimo e realizado no âmbito do projeto BiblioPI (Processa
 *   [ ] Digital *(Código: 2)*
 *   [ ] Ambos *(Código: 3)*
 
-**P6. Qual é o seu género literário preferido?**
-*   [ ] Romance / Drama *(Código: 1)*
-*   [ ] Policial / Mistério *(Código: 2)*
-*   [ ] Ficção Científica / Fantasia *(Código: 3)*
-*   [ ] Não-ficção (Biografias, História, Ciência) *(Código: 4)*
-*   [ ] Tecnologia / Cibersegurança *(Código: 5)*
-*   [ ] Outro *(Código: 6)*
+**P6. Qual é o seu género literário preferido DENTRO DA ÁREA DE INFORMÁTICA / CIBERSEGURANÇA?**
+*   [ ] **Criptografia e Segurança de Dados** (Encriptação, Blockchain, Proteção de Ficheiros) *(Código: 1)*
+*   [ ] **Firewalls, Redes e Infraestrutura** (Configuração de Routers, VPNs, Segurança de Rede) *(Código: 2)*
+*   [ ] **Hacking Ético e Testes de Intrusão** (Pentesting, Ferramentas como Kali Linux) *(Código: 3)*
+*   [ ] **Privacidade e Proteção de Dados** (RGPD, Anonimato, Gestão de Identidade) *(Código: 4)*
+*   [ ] **Crime Digital e Forense** (Investigação de Malware, Ransomware, Fraudes) *(Código: 5)*
+*   [ ] **Não leio sobre temas de Informática/Cibersegurança** *(Código: 6)*
 
 ---
 
