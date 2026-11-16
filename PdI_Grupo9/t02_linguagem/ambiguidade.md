@@ -19,9 +19,9 @@
 
 5- Pragmática
 
-6- 
+6- Sintática
 
-7- 
+7- Semântica
 
 8- Pragmática
 
@@ -49,11 +49,15 @@ O Pedro disse ao Rui que o Rui tinha uma multa.
 
 
 
-5- 
+5- Infelizmente, o catálogo está outra vez em baixo.
 
 
 
-6-
+
+
+6- Procuro relatórios e teses sobre cibersegurança de 2025.
+
+Procuro relatórios e teses 
 
 
 
@@ -63,5 +67,9 @@ O Pedro disse ao Rui que o Rui tinha uma multa.
 
 8- Tem permissão para deixar a mochila à entrada?
 
-Não pode deixar a mochila à entrada! 
+Não pode deixar a mochila à entrada!
+
+
+
+&#x20;
 
