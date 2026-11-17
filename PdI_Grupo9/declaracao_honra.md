@@ -9,7 +9,7 @@ Os alunos abaixo identificados, membros do grupo nº 9 da unidade curricular de 
 5. Os dados do inquérito foram recolhidos com o consentimento dos participantes e anonimizados;
 6. O registo de horas entregue corresponde ao esforço efetivamente realizado por cada elemento;
 7. Têm conhecimento de que a violação desta declaração implica a anulação do trabalho e pode dar origem a procedimento disciplinar.
-Vila Nova de Gaia, 16 de novembro de 2026
+Vila Nova de Gaia, 17 de novembro de 2026
 
 
 |   Nº de Aluno |   Nome Completo   |
