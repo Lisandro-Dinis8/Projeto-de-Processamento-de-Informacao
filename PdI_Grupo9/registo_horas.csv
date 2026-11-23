@@ -1,7 +1,8 @@
 data,aluno_numero,tarefa,atividade,horas
 2026-11-16,2024104313,T1,Criação e atualização do inquerito_codebook.md,1
-2026-11-16,2024103312,T1,Elaboração do questionário para o público em google forms,"0,3"
-2026-11-16,2024106047,T2,Elaboração da parte teórica e ambiguidade,"2,3"
-2026-11-23,2024104313,T1,Tratamento de dados acerca dos inqueéritos realizados no google forms,
+"2026-11-16,2024103312,T1,Elaboração do questionário para o público em google forms,""0,3"""
+"2026-11-16,2024106047,T2,Elaboração da parte teórica e ambiguidade,""2,3"""
+"2026-11-23,2024104313,T1,Tratamento de dados acerca dos inqueéritos realizados no google forms,""0,31"""
 2026-11-23,2024106047,T7,Elaboração do portal HTML da plataforma,
 2026-11-23,2024103312,T3,Elaboração dos mapas mentais e concetuais,
+
